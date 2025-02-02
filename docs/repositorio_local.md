@@ -15,7 +15,7 @@ Y ya una vez creado un repositorio, se pueden guardar los cambios usando los com
 4: Para revisar que todo este bien con nuestro repositorio usamos "git status"
 ![status](../images/16.png)
 
-5: Coloca aqui la explicación de git log
+5: Git log sirve para mostrar el historial de los diferentes commit que se han hecho.
 ![gitlog](../images/16.png)
 
 
